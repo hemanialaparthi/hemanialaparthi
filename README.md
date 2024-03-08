@@ -27,4 +27,17 @@ me = ME()
 me.say_hi()
 ```
 
+### My GitHub Data
+
+**🐱 My GitHub Data** 
+
+> 📦 185.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2024
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+
 
