@@ -17,7 +17,7 @@ class ME:
         self.name = "Hemani Alaparthi"
         self.role = "Software Engineer"
         self.codelanguages = ["python", "java"]
-        self.hobbies = ["reading", "coding", "cooking"]
+        self.hobbies = ["reading", "coding", "napping"]
 
     def say_hi(self):
         print("Thanks for dropping by, Let's connect!")
