@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-hemanialaparthi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanialaparthi)](https://www.linkedin.com/in/hemanialaparthi)
 [![Gmail Badge](https://img.shields.io/badge/-hemanialaparthi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:YourEmailAddress)](mailto:hemanialaparthi@gmail.com)
 
-Welcome to my profile! I'm a freshman at Allegheny College double majoring in Computer Science & Economics. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a sophomore at Allegheny College double majoring in Computer Science & Economics. Thanks for visiting and I'd love to connect!
 
 ### A Little More About ME..
 
