@@ -48,5 +48,9 @@ me.say_hi()
 
 ![Hemani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanialaparthi&hide_rank=true&show_icons=true&theme=transparent)
 
+### :fire: My Streak!
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hemanialaparthi&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
