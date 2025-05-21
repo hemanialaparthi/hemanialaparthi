@@ -1,9 +1,10 @@
 # Hello! I'm Hemani! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-hemanialaparthi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanialaparthi)](https://www.linkedin.com/in/hemanialaparthi)
+[![Portfolio Badge](https://img.shields.io/badge/-hemanialaparthi.com-%23b044fc?style=flat&logo=internet-explorer&logoColor=white)](https://hemanialaparthi.github.io/personal-portfolio/)
 [![Gmail Badge](https://img.shields.io/badge/-hemanialaparthi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:YourEmailAddress)](mailto:hemanialaparthi@gmail.com)
 
-Welcome to my profile! I'm a sophomore at Allegheny College double majoring in Computer Science & Economics. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a **Junior** at **Allegheny College** double majoring in **Computer Science** & **Economics**. Thanks for visiting and I'd love to connect!
 
 ### A Little More About ME..
 
@@ -15,13 +16,13 @@ class ME:
 
     def __init__(self):
         self.name = "Hemani Alaparthi"
-        self.role = "Software Engineer"
-        self.codelanguages = ["python", "java"]
+        self.role = "Aspiring Software Engineer"
+        self.majors = ["Computer Science", "Economics"]
+        self.languages = ["Python", "Java", "C", "JavaScript"]
         self.hobbies = ["reading", "coding", "napping"]
 
     def say_hi(self):
-        print("Thanks for dropping by, Let's connect!")
-
+        print("Thanks for dropping by! Let's connect :)")
 
 me = ME()
 me.say_hi()
